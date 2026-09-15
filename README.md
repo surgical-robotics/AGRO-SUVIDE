@@ -1,6 +1,6 @@
-# VIDA — Project Page
+# AGRO-SUVIDE — Project Page
 
-Project page for VIDA, deployed at **https://surgical-robotics.github.io/vida**
+Project page for AGRO-SUVIDE, deployed at **https://surgical-robotics.github.io/AGRO-SUVIDE**
 
 The page is currently a **placeholder**: the layout and all section skeletons are in place,
 but every figure, video and paragraph still needs to be filled in.
